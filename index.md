@@ -19,6 +19,8 @@ Born in 🇲🇾 → Living in 🇬🇧
 
 ## Funding
 
-Tunku Abdul Rahman Centenary Fund Scholarship Award, [St Catharine's College, Cambridge](https://www.caths.cam.ac.uk/tunku-abdul-rahman-fund), 2020
+Tunku Abdul Rahman Centenary Fund Scholarship Award
+[St Catharine's College, Cambridge](https://www.caths.cam.ac.uk/tunku-abdul-rahman-fund), 2020
 
-Khazanah Global Scholarhip Award, [Khazanah Foundation](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship), 2011
+Khazanah Global Scholarhip Award
+[Khazanah Foundation](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship), 2011
