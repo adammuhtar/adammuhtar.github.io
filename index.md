@@ -5,7 +5,7 @@ title: Hi!👋I'm [Adam Muhtar](https://twitter.com/musaddiqadam)
 comments: false
 ---
 
-\\Thanks for stopping by! I'm a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/).
+\\ Thanks for stopping by! I'm a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/).
 
 ## A little bit about me
 
