@@ -15,9 +15,9 @@ In my previous life, I was an economist doing all sorts of things.
 
 I hold an MPhil in Public Policy from the University of Cambridge and a BSc in Economics from the London School of Economics.
 
-My first name is Musaddiq, but I go by middle name🙂
+My first name is Musaddiq, but I go by my middle name 🙂
 
-Born in 🇲🇾 → Living in 🇬🇧
+Grew up in 🇲🇾 → Living in 🇬🇧
 
 ## Funding
 
