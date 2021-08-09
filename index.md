@@ -5,7 +5,7 @@ title: Hi!👋I'm [Adam Muhtar](https://twitter.com/musaddiqadam)
 comments: false
 ---
 
-I am a pre-doctoral research assistant at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/). Thanks for stopping by
+I am a pre-doctoral research assistant at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/). Thanks for stopping by!
 
 ## A little bit about me
 
