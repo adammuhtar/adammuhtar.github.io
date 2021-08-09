@@ -7,8 +7,8 @@ comments: false
 
 I am a pre-doctoral research assistant at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/).
 
-A little bit about me
-------
+## A little bit about me
+
 I help bring dictators down.
 
 In my previous life, I was an economist doing all sorts of things.
