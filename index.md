@@ -1,11 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: Hi!👋 I'm [Adam Muhtar](https://twitter.com/musaddiqadam). Thanks for stopping by!
+title: Hi!👋I'm [Adam Muhtar](https://twitter.com/musaddiqadam)
 comments: false
 ---
 
-I am a pre-doctoral research assistant at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/).
+I am a pre-doctoral research assistant at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/). Thanks for stopping by
 
 ## A little bit about me
 
@@ -19,8 +19,8 @@ Born in 🇲🇾 → Living in 🇬🇧
 
 ## Funding
 
-Tunku Abdul Rahman Centenary Fund Scholarship Award,
+Tunku Abdul Rahman Centenary Fund Scholarship Award,\\
 [St Catharine's College, Cambridge](https://www.caths.cam.ac.uk/tunku-abdul-rahman-fund), 2020
 
-Khazanah Global Scholarhip Award,
+Khazanah Global Scholarhip Award,\\
 [Khazanah Foundation](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship), 2011
