@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "default", "dirt", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en"
@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Adam Muhtar"
-  avatar           : "/assets/images/Adam-Muhtar.jpg"
+  avatar           : "/assets/images/Adam_Muhtar.jpg"
   bio              : "Bennett Institute for Public Policy, University of Cambridge"
   location         : "Cambridge, UK"
   email            : "adam.b.muhtar@gmail.com"
