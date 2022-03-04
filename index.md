@@ -11,13 +11,13 @@ I'm using this website as a space to "[work with the garage door up](https://not
 
 ## A little bit about me 🖖
 
-I'm a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working under the supervision of the [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/). We're doing our bit to better understand productivity in the UK, which is part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/).
+I'm a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working with [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/) to better understand productivity in the UK, part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/). I also dabble in the use of text as data in economics research, analysing stuff from government policy documents and to patent publications 🤓
 
 Previously, I was an economist within Malaysia's policymaking circles, meandering in all sorts of economics-related fields from trade policy to public finance management.
 
 I think it's fair to say that I've had a rather unconventional career trajectory—my professional experiences took place in the days leading to and following from the [Malaysia's landmark 2018 general elections](https://www.bbc.co.uk/news/world-asia-44036178) (i.e. the elections that ended the country's 61-year one-party rule since her independence from Britain in 1957):
 * I started out as a researcher at the Malaysian sovereign wealth fund’s research institute, where I dabbled in things ranging from international trade negotiations to analysing socio-economic development of the country.
-* After 🇲🇾's historic 2018 elections, I did my bit to help out with what I can as an officer at the Prime Minister's advisory council ([Malaysia's Council of Eminent Persons](https://asia.nikkei.com/Politics/Malaysia-in-transition/Meet-the-5-brains-behind-Malaysia-s-Mahathir-nomics)).
+* After Malaysia's historic 2018 elections, I did my bit to help out with what I can as an officer at the Prime Minister's advisory council ([Malaysia's Council of Eminent Persons](https://asia.nikkei.com/Politics/Malaysia-in-transition/Meet-the-5-brains-behind-Malaysia-s-Mahathir-nomics)).
 * This was followed by a small intermission period in my public service career, where I joined the private sector as an economist for a bank under [Dr Donald Hanna](https://www.cimb.com/en/newsroom/2017/cimb-appoints-dr-donald-hanna-as-group-chief-economist.html).
 * Rejoined the public sector as an economist for [Malaysia's capital market regulator](https://www.sc.com.my/), working in all sorts of things for the government up until the early days of the pandemic.
 
@@ -26,6 +26,36 @@ Throughout this whole time, I've had the great privilege of working with some tr
 I hold an MPhil in Public Policy from the University of Cambridge and a BSc in Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/tunku-abdul-rahman-fund) and [Khazanah Global Scholarship](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship).
 
 Some extra bits about myself: 
-* I split my time between London (with my amazing [wife](https://www.faridahfaiz.com/)) and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[email](mailto:adam.b.muhtar@gmail.com).
+* I split my time between London and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[email](mailto:adam.b.muhtar@gmail.com).
 * My first name is Musaddiq, but I go by my middle name, Adam 🙂
-* Massive LotR fan—[Amazon's upcoming show](https://twitter.com/lotronprime) has got me [super pumped](https://i.redd.it/3kq3mcr9x3f71.jpg) 🥳
+* I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃!
+
+## Selection of stuff I've written 👨🏻‍💻
+**You’re not speaking my language: policy discontinuity and coordination gaps between the UK’s national economic strategies and its place-based policies**
+with Diane Coyle
+_Forthcoming_
+[`Code & Data`](https://github.com/adammuhtar/uk-economic-strategy-text-mining)
+
+**[UK’s Industrial Policy: Learning from the Past?](https://www.bennettinstitute.cam.ac.uk/publications/industrial-policy-learning-past/)**
+with Diane Coyle
+_Productivity Insights Paper No. 002, The Productivity Institute_
+
+**[Financial Development: Catalysing Economic Development in Malaysia](https://www.sc.com.my/api/documentms/download.ashx?id=1dca6d88-4c13-4c0e-8860-76d68f891599)**
+with Allen Ng
+_Box article in "Securities Commission Malaysia Annual Report 2019", pp. 104–108_
+
+**[Structure of the Malaysian Economy: An Input-Output Analysis](http://www.krinstitute.org/Publications-@-Structure_of_the_Malaysian_Economy-;_An_Input-Output_Analysis.aspx)**
+with Alyssa Farha Jasmin, Gregory Ho Wai Son & Aidonna Jan Ayub
+_Khazanah Research Institute Report_
+
+**[Introduction to Malaysia’s Trade Policies](http://www.krinstitute.org/assets/contentMS/img/template/editor/2%20Trade%20policies.pdf)**
+with Nungsari Ahmad Radhi & Adibah Abdulhadi
+_Chapter 2 of "Malaysia’s Trade Governance at a Crossroads", Pierre Sauvé (ed.), pp. 45–74_
+
+**[Reclaiming Malaysia’s Public Finances: The Case for an Independent Fiscal Institution in Malaysia](https://www.dropbox.com/s/klg0abave5leckl/Reclaiming%20Malaysia%27s%20Public%20Finances%20-%20A%20Proposal.pdf?dl=0)**
+with Allen Ng
+_Policy brief submitted to Malaysia's Council of Eminent Persons_
+
+**[Why Trade Matters: Trade Issues in Non-communicable Diseases, Essential Medicines and Education](http://www.krinstitute.org/assets/contentMS/img/template/editor/KRI-Trade%20Primer_ENG@FULL.pdf)**
+with Alyssa Farha Jasmin, Nazihah Muhamad Noor, Nur Thuraya Sazali & Aidonna Jan Ayub
+_Khazanah Research Institute Report_
