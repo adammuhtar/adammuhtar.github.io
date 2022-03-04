@@ -11,7 +11,7 @@ I'm using this website as a space to "[work with the garage door up](https://not
 
 ## A little bit about me 🖖
 
-I'm a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working with [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/) to better understand productivity in the UK, part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/). I also dabble in the use of text as data in economics research, analysing stuff from government policy documents and to patent publications 🤓
+I'm a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working with [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/) to better understand productivity in the UK, part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/). I also dabble in the use of text as data in economics research, analysing stuff from government policy documents and to patent publications 🤓 Other than that, I'm a supervisor in [Dr Pieter van Houten](https://www.polis.cam.ac.uk/Staff_and_Students/dr-pieter-van-houten)'s undergraduate statistics course, introducing students to the amazing world of [R (and Python, if they ask)](https://www.business-science.io/assets/2021-02-18-R-is-for-research/Join_Forces_meme.png) 📊
 
 Previously, I was an economist within Malaysia's policymaking circles, meandering in all sorts of economics-related fields from trade policy to public finance management.
 
@@ -23,10 +23,10 @@ I think it's fair to say that I've had a rather unconventional career trajectory
 
 Throughout this whole time, I've had the great privilege of working with some truly fantastic people, such as [Allen Ng](https://twitter.com/elanorng) and [Professor Jomo Kwame Sundaram](https://en.wikipedia.org/wiki/Jomo_Kwame_Sundaram). Their dedication to public service and betterment of society are beyond praise.
 
-I hold an MPhil in Public Policy from the University of Cambridge and a BSc in Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/tunku-abdul-rahman-fund) and [Khazanah Global Scholarship](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship).
+I hold an MPhil in Public Policy from the University of Cambridge and a BSc in Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/tunku-abdul-rahman-fund) and [Khazanah Scholarship](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship).
 
 Some extra bits about myself: 
-* I split my time between London and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[email](mailto:adam.b.muhtar@gmail.com).
+* I split my time between London and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[Email](mailto:adam.b.muhtar@gmail.com).
 * My first name is Musaddiq, but I go by my middle name, Adam 🙂
 * I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃!
 
