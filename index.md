@@ -9,10 +9,6 @@ Welcome to my personal webpage, thanks for stopping by!
 
 I'm using this website as a space to "[work with the garage door up](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)", showcasing the stuff I've been working on and the process I go through to get there 👨‍🏭
 
-## Things I'm working on 👨‍💻
-
-I'll update this bit fairly [soon](https://i.redd.it/8vgvw87yo6j71.jpg)!
-
 ## A little bit about me 🖖
 
 I'm a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working under the supervision of the [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/). We're doing our bit to better understand productivity in the UK, which is part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/).
