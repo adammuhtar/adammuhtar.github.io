@@ -31,31 +31,31 @@ Some extra bits about myself:
 * I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃!
 
 ## Selection of stuff I've written 👨🏻‍💻
-**You’re not speaking my language: policy discontinuity and coordination gaps between the UK’s national economic strategies and its place-based policies**\\
-with Diane Coyle\\
-_Forthcoming_\\
+**You’re not speaking my language: policy discontinuity and coordination gaps between the UK’s national economic strategies and its place-based policies**<br/>
+with Diane Coyle<br/>
+_Forthcoming_<br/>
 [`Code & Data`](https://github.com/adammuhtar/uk-economic-strategy-text-mining)
 
-**[UK’s Industrial Policy: Learning from the Past?](https://www.bennettinstitute.cam.ac.uk/publications/industrial-policy-learning-past/)**\\
-with Diane Coyle\\
+**[UK’s Industrial Policy: Learning from the Past?](https://www.bennettinstitute.cam.ac.uk/publications/industrial-policy-learning-past/)**<br/>
+with Diane Coyle<br/>
 _Productivity Insights Paper No. 002, The Productivity Institute_
 
-**[Financial Development: Catalysing Economic Development in Malaysia](https://www.sc.com.my/api/documentms/download.ashx?id=1dca6d88-4c13-4c0e-8860-76d68f891599)**\\
-with Allen Ng\\
+**[Financial Development: Catalysing Economic Development in Malaysia](https://www.sc.com.my/api/documentms/download.ashx?id=1dca6d88-4c13-4c0e-8860-76d68f891599)**<br/>
+with Allen Ng<br/>
 _Box article in "Securities Commission Malaysia Annual Report 2019", pp. 104–108_
 
-**[Structure of the Malaysian Economy: An Input-Output Analysis](http://www.krinstitute.org/Publications-@-Structure_of_the_Malaysian_Economy-;_An_Input-Output_Analysis.aspx)**\\
-with Alyssa Farha Jasmin, Gregory Ho Wai Son & Aidonna Jan Ayub\\
+**[Structure of the Malaysian Economy: An Input-Output Analysis](http://www.krinstitute.org/Publications-@-Structure_of_the_Malaysian_Economy-;_An_Input-Output_Analysis.aspx)**<br/>
+with Alyssa Farha Jasmin, Gregory Ho Wai Son & Aidonna Jan Ayub<br/>
 _Khazanah Research Institute Report_
 
-**[Introduction to Malaysia’s Trade Policies](http://www.krinstitute.org/assets/contentMS/img/template/editor/2%20Trade%20policies.pdf)**\\
-with Nungsari Ahmad Radhi & Adibah Abdulhadi\\
+**[Introduction to Malaysia’s Trade Policies](http://www.krinstitute.org/assets/contentMS/img/template/editor/2%20Trade%20policies.pdf)**<br/>
+with Nungsari Ahmad Radhi & Adibah Abdulhadi<br/>
 _Chapter 2 of "Malaysia’s Trade Governance at a Crossroads", Pierre Sauvé (ed.), pp. 45–74_
 
-**[Reclaiming Malaysia’s Public Finances: The Case for an Independent Fiscal Institution in Malaysia](https://www.dropbox.com/s/klg0abave5leckl/Reclaiming%20Malaysia%27s%20Public%20Finances%20-%20A%20Proposal.pdf?dl=0)**\\
-with Allen Ng\\
+**[Reclaiming Malaysia’s Public Finances: The Case for an Independent Fiscal Institution in Malaysia](https://www.dropbox.com/s/klg0abave5leckl/Reclaiming%20Malaysia%27s%20Public%20Finances%20-%20A%20Proposal.pdf?dl=0)**<br/>
+with Allen Ng<br/>
 _Policy brief submitted to Malaysia's Council of Eminent Persons_
 
-**[Why Trade Matters: Trade Issues in Non-communicable Diseases, Essential Medicines and Education](http://www.krinstitute.org/assets/contentMS/img/template/editor/KRI-Trade%20Primer_ENG@FULL.pdf)**\\
-with Alyssa Farha Jasmin, Nazihah Muhamad Noor, Nur Thuraya Sazali & Aidonna Jan Ayub\\
+**[Why Trade Matters: Trade Issues in Non-communicable Diseases, Essential Medicines and Education](http://www.krinstitute.org/assets/contentMS/img/template/editor/KRI-Trade%20Primer_ENG@FULL.pdf)**<br/>
+with Alyssa Farha Jasmin, Nazihah Muhamad Noor, Nur Thuraya Sazali & Aidonna Jan Ayub<br/>
 _Khazanah Research Institute Report_
