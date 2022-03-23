@@ -31,9 +31,9 @@ Some extra bits about myself:
 * I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃!
 
 ## Selection of stuff I've written 👨🏻‍💻
-**You’re not speaking my language: policy discontinuity and coordination gaps between the UK’s national economic strategies and its place-based policies**<br/>
+**[You’re not speaking my language: policy discontinuity and coordination gaps between the UK’s national economic strategies and its place-based policies](https://www.bennettinstitute.cam.ac.uk/publications/youre-not-speaking-my-language/)**<br/>
 with Diane Coyle<br/>
-_Forthcoming_<br/>
+_Bennett Institute for Public Policy Working Paper_<br/>
 [`Code & Data`](https://github.com/adammuhtar/uk-economic-strategy-text-mining)
 
 **[UK’s Industrial Policy: Learning from the Past?](https://www.bennettinstitute.cam.ac.uk/publications/industrial-policy-learning-past/)**<br/>
