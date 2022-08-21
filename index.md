@@ -19,7 +19,7 @@ I think it's fair to say that I've had a rather unconventional career trajectory
 
 Throughout this whole time, I've had the great privilege of working with some truly fantastic people, such as [Allen Ng](https://twitter.com/elanorng) and [Professor Jomo Kwame Sundaram](https://en.wikipedia.org/wiki/Jomo_Kwame_Sundaram). Their dedication to public service and betterment of society are beyond praise.
 
-I hold an MPhil in Public Policy from the University of Cambridge and a BSc in Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/tunku-abdul-rahman-fund) and [Khazanah Scholarship](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship).
+I hold an MPhil in Public Policy from the University of Cambridge and a BSc in Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/research/tunku/former-scholars/Adam-Muhtar) and [Khazanah Scholarship](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship).
 
 Some extra bits about myself: 
 * I split my time between London and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[Email](mailto:adam.b.muhtar@gmail.com).
