@@ -7,13 +7,9 @@ comments: false
 
 Welcome to my personal webpage, thanks for stopping by!
 
-I'm using this website as a space to "[work with the garage door up](https://notes.andymatuschak.org/About_these_notes?stackedNotes=z21cgR9K3UcQ5a7yPsj2RUim3oM2TzdBByZu)", showcasing the stuff I've been working on and the process I go through to get there 👨‍🏭
-
 ## A little bit about me 🖖
 
-I'm a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working with [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/) to better understand productivity in the UK, part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/). I also dabble in the use of text as data in economics research, analysing stuff from government policy documents and to patent publications 🤓 Other than that, I'm a supervisor in [Dr Pieter van Houten](https://www.polis.cam.ac.uk/Staff_and_Students/dr-pieter-van-houten)'s undergraduate statistics course, introducing students to the amazing world of [R (and Python, if they ask)](https://www.business-science.io/assets/2021-02-18-R-is-for-research/Join_Forces_meme.png) 📊
-
-Previously, I was an economist within Malaysia's policymaking circles, meandering in all sorts of economics-related fields from trade policy to public finance management.
+I'm a data scientist at the [Bank of England](https://www.bankofengland.co.uk/). Previously, I was researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working with [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/) to better understand institutional structures responsible for industrial and economic policies in the UK, part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/). I dabbled in the use of text as data in economics research, analysing stuff from government policy documents and to patent publications 🤓 Other than that, I helped [Dr Pieter van Houten](https://www.polis.cam.ac.uk/Staff_and_Students/dr-pieter-van-houten)'s supervise his undergraduate statistics course, introducing students to the amazing world of [R (and Python, if they ask)](https://www.business-science.io/assets/2021-02-18-R-is-for-research/Join_Forces_meme.png) 📊 Prior to that, I was an economist within Malaysia's policymaking circles, meandering in all sorts of economics-related fields from trade policy to public finance management.
 
 I think it's fair to say that I've had a rather unconventional career trajectory—my professional experiences took place in the days leading to and following from the [Malaysia's landmark 2018 general elections](https://www.bbc.co.uk/news/world-asia-44036178) (i.e. the elections that ended the country's 61-year one-party rule since her independence from Britain in 1957):
 * I started out as a researcher at the Malaysian sovereign wealth fund’s research institute, where I dabbled in things ranging from international trade negotiations to analysing socio-economic development of the country.
@@ -28,7 +24,7 @@ I hold an MPhil in Public Policy from the University of Cambridge and a BSc in E
 Some extra bits about myself: 
 * I split my time between London and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[Email](mailto:adam.b.muhtar@gmail.com).
 * My first name is Musaddiq, but I go by my middle name, Adam 🙂
-* I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃!
+* I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃
 
 ## Selection of stuff I've written 👨🏻‍💻
 **[You’re not speaking my language: policy discontinuity and coordination gaps between the UK’s national economic strategies and its place-based policies](https://www.bennettinstitute.cam.ac.uk/publications/youre-not-speaking-my-language/)**<br/>
