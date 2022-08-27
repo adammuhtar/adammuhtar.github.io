@@ -85,8 +85,8 @@ analytics:
 author:
   name             : "Adam Muhtar"
   avatar           : "/assets/images/Adam_Muhtar.jpg"
-  bio              : "Bennett Institute for Public Policy, University of Cambridge"
-  location         : "Cambridge, UK"
+  bio              : "Bank of England"
+  location         : "London, UK"
   email            : "adam.b.muhtar@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
