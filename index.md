@@ -23,12 +23,21 @@ Throughout this whole time, I've had the great privilege of working with some tr
 
 I hold an MPhil in Public Policy from the University of Cambridge and a BSc in Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/research/tunku/former-scholars/Adam-Muhtar) and [Khazanah Scholarship](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship).
 
-Some extra bits about myself: 
+Some extra bits about myself:
 * I split my time between London and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[Email](mailto:adam.b.muhtar@gmail.com).
 * My first name is Musaddiq, but I go by my middle name, Adam 🙂
 * I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃
 
 ## Selection of stuff I've written 👨🏻‍💻
+**[Assessing policy co-ordination in government: Text and network analysis of the UK's economic strategies](https://doi.org/10.1016/j.ejpoleco.2023.102402)**<br/>
+with Diane Coyle<br/>
+_European Journal of Political Economy_<br/>
+[`Code`](https://github.com/adammuhtar/nlp-networks-uk-econ-strategies) & [`Data`](https://www.kaggle.com/datasets/adammuhtar/uk-policy-paper-economic-strategy-term-frequency)
+
+**[Levelling up policies and the failure to learn](https://doi.org/10.1080/21582041.2023.2197877)**<br/>
+with Diane Coyle<br/>
+_Contemporary Social Science_
+
 **[You’re not speaking my language: policy discontinuity and coordination gaps between the UK’s national economic strategies and its place-based policies](https://www.bennettinstitute.cam.ac.uk/publications/youre-not-speaking-my-language/)**<br/>
 with Diane Coyle<br/>
 _Bennett Institute for Public Policy Working Paper_<br/>
