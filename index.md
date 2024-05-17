@@ -9,7 +9,7 @@ Welcome to my personal webpage, thanks for stopping by!
 
 ## A little bit about me 🖖
 
-I'm a data scientist at the [Bank of England](https://www.bankofengland.co.uk/), working on large language models and natural language processing-based machine learning projects for the [Prudential Regulation Authority](https://www.bankofengland.co.uk/prudential-regulation). The views expressed here are my own and does not represent the views of the Bank of England.
+I'm a data scientist at the [Bank of England](https://www.bankofengland.co.uk/), working on natural language processing/understanding/generation-based machine learning projects for the [Prudential Regulation Authority](https://www.bankofengland.co.uk/prudential-regulation). The views expressed here are my own and does not represent the views of the Bank of England.
 
 Previously, I was researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working with [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/) to better understand institutional structures responsible for industrial and economic policies in the UK, part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/). I dabbled in the use of text as data in economics research, analysing stuff from government policy documents and to patent publications 📑 Other than that, I helped supervise [Dr Pieter van Houten](https://www.polis.cam.ac.uk/Staff_and_Students/dr-pieter-van-houten)'s undergraduate statistics course, introducing students to the amazing world of [R (and Python, if they ask)](https://www.business-science.io/assets/2021-02-18-R-is-for-research/Join_Forces_meme.png) 📊 Prior to that, I was an economist within Malaysia's policymaking circles, meandering in all sorts of economics-related fields from trade policy to public finance management.
 
@@ -29,6 +29,10 @@ Some extra bits about myself:
 * I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃
 
 ## Selection of stuff I've written 👨🏻‍💻
+**[Leveraging language models for prudential supervision](https://bankunderground.co.uk/2024/05/15/leveraging-language-models-for-prudential-supervision/)**<br/>
+with [Dragos Gorduza](https://oxford-man.ox.ac.uk/people/dragos-gorduza/)<br/>
+_Bank Underground_<br/>
+
 **[Assessing policy co-ordination in government: Text and network analysis of the UK's economic strategies](https://doi.org/10.1016/j.ejpoleco.2023.102402)**<br/>
 with [Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/)<br/>
 _European Journal of Political Economy_<br/>
