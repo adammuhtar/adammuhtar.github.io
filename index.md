@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: Hi!👋 I'm [Adam Muhtar](https://twitter.com/adammuhtar_)
+title: Hi!👋 I'm Adam Muhtar
 comments: false
 ---
 
