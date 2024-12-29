@@ -21,7 +21,7 @@ I think it's fair to say that I've had a rather unconventional career trajectory
 
 Throughout this whole time, I've had the great privilege of working with some truly fantastic people, such as [Allen Ng](https://amro-asia.org/authors/allen-ng/), [Professor Jomo Kwame Sundaram](https://en.wikipedia.org/wiki/Jomo_Kwame_Sundaram), and [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/).
 
-I am currently doing a Master's programme in Machine Learning and Data Science at Imperial College London—prior to this, I studied Public Policy at the University of Cambridge and Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/research/tunku/former-scholars/Adam-Muhtar) and [Khazanah Scholarship](https://www.yayasankhazanah.com.my/scholarship-programmes/khazanah-global-scholarship).
+I am currently doing a Master's programme in Machine Learning and Data Science at Imperial College London—prior to this, I studied Public Policy at the University of Cambridge and Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/research/tunku) and [Khazanah Scholarship](https://yayasanhasanah.org/yayasan-khazanah-scholarship/).
 
 Some extra bits about myself:
 * I split my time between London and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[Email](mailto:adam.b.muhtar@gmail.com).
