@@ -19,7 +19,7 @@ I think it's fair to say that I've had a rather unconventional career trajectory
 * This was followed by a small intermission period in my public service career, where I joined the private sector as an economist for a bank under [Dr Donald Hanna](https://www.cimb.com/en/newsroom/2017/cimb-appoints-dr-donald-hanna-as-group-chief-economist.html).
 * Rejoined the public sector as an economist for [Malaysia's capital market regulator](https://www.sc.com.my/), working in all sorts of things for the government up until the early days of the pandemic.
 
-Throughout this whole time, I've had the great privilege of working with some truly fantastic people, such as [Allen Ng](https://amro-asia.org/authors/allen-ng/), [Professor Jomo Kwame Sundaram](https://en.wikipedia.org/wiki/Jomo_Kwame_Sundaram), and [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/).
+Throughout this whole time, I've had the great privilege of working with some truly fantastic people, such as [Allen Ng](https://amro-asia.org/authors/allen-ng/), [Professor Jomo Kwame Sundaram](https://en.wikipedia.org/wiki/Jomo_Kwame_Sundaram), and [Professor Diane Coyle](https://en.wikipedia.org/wiki/Diane_Coyle).
 
 I am currently doing a Master's programme in Machine Learning and Data Science at Imperial College London—prior to this, I studied Public Policy at the University of Cambridge and Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/research/tunku) and [Khazanah Scholarship](https://yayasanhasanah.org/yayasan-khazanah-scholarship/).
 
@@ -56,11 +56,11 @@ with [Allen Ng](https://amro-asia.org/authors/allen-ng/)<br/>
 _Box article in "Securities Commission Malaysia Annual Report 2019", pp. 104–108_
 
 **[Structure of the Malaysian Economy: An Input-Output Analysis](http://www.krinstitute.org/Publications-@-Structure_of_the_Malaysian_Economy-;_An_Input-Output_Analysis.aspx)**<br/>
-with [Alyssa Farha Jasmin](https://blogs.worldbank.org/team/alyssa-farha-jasmin), Gregory Ho Wai Son & Aidonna Jan Ayub<br/>
+with [Alyssa Farha Jasmin](https://blogs.worldbank.org/en/team/a/alyssa-farha-jasmin), [Gregory Ho Wai Son](https://www.krinstitute.org/Our_People-@-Gregory_Ho_Wai_Son.aspx) & [Aidonna Jan Ayub](https://www.krinstitute.org/Our_People-@-Aidonna_Jan_Ayub.aspx)<br/>
 _Khazanah Research Institute Report_
 
 **[Introduction to Malaysia’s Trade Policies](http://www.krinstitute.org/assets/contentMS/img/template/editor/2%20Trade%20policies.pdf)**<br/>
-with Nungsari Ahmad Radhi & Adibah Abdulhadi<br/>
+with [Nungsari Ahmad Radhi](https://krinstitute.org/Board_of_Trustees-@-Dr_Nungsari_Ahmad_Radhi.aspx) & [Adibah Abdulhadi](https://cfs.wisc.edu/2020/01/03/adibah-abdulhadi/)<br/>
 _Chapter 2 of "Malaysia’s Trade Governance at a Crossroads", Pierre Sauvé (ed.), pp. 45–74_
 
 **[Reclaiming Malaysia’s Public Finances: The Case for an Independent Fiscal Institution in Malaysia](https://www.dropbox.com/s/klg0abave5leckl/Reclaiming%20Malaysia%27s%20Public%20Finances%20-%20A%20Proposal.pdf?dl=0)**<br/>
@@ -68,5 +68,5 @@ with [Allen Ng](https://amro-asia.org/authors/allen-ng/)<br/>
 _Policy brief submitted to Malaysia's Council of Eminent Persons_
 
 **[Why Trade Matters: Trade Issues in Non-communicable Diseases, Essential Medicines and Education](http://www.krinstitute.org/assets/contentMS/img/template/editor/KRI-Trade%20Primer_ENG@FULL.pdf)**<br/>
-with [Alyssa Farha Jasmin](https://blogs.worldbank.org/team/alyssa-farha-jasmin), Nazihah Muhamad Noor, Nur Thuraya Sazali & Aidonna Jan Ayub<br/>
+with [Alyssa Farha Jasmin](https://blogs.worldbank.org/en/team/a/alyssa-farha-jasmin), [Nazihah Muhamad Noor](https://projects.unifr.ch/pophealthlab/?page_id=714), Nur Thuraya Sazali & [Aidonna Jan Ayub](https://www.krinstitute.org/Our_People-@-Aidonna_Jan_Ayub.aspx)<br/>
 _Khazanah Research Institute Report_
