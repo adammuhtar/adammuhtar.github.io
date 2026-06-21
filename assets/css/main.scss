@@ -4,5 +4,20 @@
 
 @charset "utf-8";
 
+// ---------------------------------------------------------------------------
+//  Claude-inspired warm dark palette
+//  Declared before the skin/theme imports so these win over the `!default`
+//  values. Anything not set here is derived by the built-in "dark" skin from
+//  $background-color, keeping the rest of the UI consistent.
+// ---------------------------------------------------------------------------
+$background-color:           #262624; // warm charcoal page background
+$text-color:                 #e3e1d9; // soft off-white body text
+$muted-text-color:           #a3a097; // meta text, dates, captions
+$primary-color:              #d97757; // Claude coral accent
+$link-color:                 #d97757; // links in the coral accent
+$masthead-link-color-hover:  #d97757; // nav hover picks up the accent
+$code-background-color:      mix(#000, $background-color, 15%);
+$code-background-color-dark: mix(#000, $background-color, 25%);
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
