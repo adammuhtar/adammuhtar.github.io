@@ -9,15 +9,13 @@ Welcome to my personal webpage — thanks for stopping by!
 
 ## About me
 
-I'm a machine learning practitioner specialising in natural language processing (NLP) and unstructured data. I'm currently a Senior NLP Scientist and member of the AI team at [Trafigura](https://www.trafigura.com/), where I lead the design, deployment, and evaluation of AI systems for research and risk analytics across physical commodities and derivatives markets. _Views expressed here are my own._
-
-## Experience
+I'm a machine learning practitioner specialising in natural language processing (NLP) and unstructured data. I'm currently a Senior NLP Scientist and member of the AI team at [Trafigura](https://www.trafigura.com/), where we build AI-powered systems for trading research and operations across physical commodities and derivatives markets. _Views expressed here are my own._
 
 Before Trafigura, my career spanned central banking, financial regulation, and economic policy across the UK and Southeast Asia. I've worked at the [Bank of England](https://www.bankofengland.co.uk/), the [University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), the [Securities Commission Malaysia](https://www.sc.com.my/), [CIMB Bank](https://www.cimb.com/), and the [Khazanah Research Institute](https://www.krinstitute.org/).
 
 ## Education
 
-* **Imperial College London** — MSc Machine Learning and Data Science, Distinction *(2023 – 2025)*<br/>Dissertation: [Meteorological Vision-Language Modelling with Multi-Scale Representation Learning](https://github.com/adammuhtar/hrrr-vlm). Funded by a Bank of England scholarship.
+* **Imperial College London** — MSc Machine Learning and Data Science, Distinction *(2023 – 2025)*<br/>Dissertation: [Meteorological Vision-Language Modelling with Multi-Scale Representation Learning](https://github.com/adammuhtar/hrrr-vlm). Supported by the Bank of England.
 * **University of Cambridge** — MPhil Public Policy, Distinction *(2020 – 2021)*<br/>Research [published in the _European Journal of Political Economy_](https://doi.org/10.1016/j.ejpoleco.2023.102402). Supported by the [Tunku Abdul Rahman Centenary Fund Scholarship](https://www.caths.cam.ac.uk/research/tunku).
 * **London School of Economics (LSE)** — BSc Economics, Upper Second-Class Honours *(2013 – 2016)*.<br/>Supported by the [Khazanah Global Scholarship](https://yayasanhasanah.org/yayasan-khazanah-scholarship/).
 
