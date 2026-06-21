@@ -5,30 +5,29 @@ title: Hi! I'm Adam Muhtar 👋
 comments: false
 ---
 
-Welcome to my personal webpage, thanks for stopping by!
+Welcome to my personal webpage — thanks for stopping by!
 
-## A little bit about me 🖖
+## About me
 
-I am a machine learning practitioner specialising in projects involving unstructured data, with a particular focus on natural language processing (NLP). Views expressed here are my own.
+I'm a machine learning practitioner specialising in natural language processing (NLP) and unstructured data. I'm currently a Senior NLP Scientist and member of the AI team at [Trafigura](https://www.trafigura.com/), where I lead the design, deployment, and evaluation of AI systems for research and risk analytics across physical commodities and derivatives markets. _Views expressed here are my own._
 
-Previously, I was a data scientist at the [Bank of England](https://www.bankofengland.co.uk/), working for the [Prudential Regulation Authority](https://www.bankofengland.co.uk/prudential-regulation). Prior to that, I was a researcher at the [Bennett Institute for Public Policy, University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), working with [Professor Diane Coyle](https://www.bennettinstitute.cam.ac.uk/about-us/team/diane-coyle/) to better understand institutional structures responsible for industrial and economic policies in the UK from a [computational social science perspective](https://doi.org/10.1016/j.ejpoleco.2023.102402), part of the wider work run by [the Productivity Institute](https://www.productivity.ac.uk/). I dabbled in the use of text as data in economics research, analysing stuff from government policy documents and to patent publications 📑 Other than that, I helped supervise [Dr Pieter van Houten](https://www.polis.cam.ac.uk/Staff_and_Students/dr-pieter-van-houten)'s undergraduate statistics course, introducing students to the amazing world of [R (and Python, if they ask)](https://www.business-science.io/assets/2021-02-18-R-is-for-research/Join_Forces_meme.png) 📊 Prior to that, I was an economist within Malaysia's policymaking circles, meandering in all sorts of economics-related fields from trade policy to public finance management.
+## Experience
 
-I think it's fair to say that I've had a rather unconventional career trajectory—my professional experiences took place in the days leading to and following from [Malaysia's landmark 2018 general elections](https://www.bbc.co.uk/news/world-asia-44036178) (i.e. the elections that ended the country's 61-year de facto one-party rule since independence from Britain in 1957), before drastic whole-of-life change by migrating to the UK:
-* I started out as a researcher at the Malaysian sovereign wealth fund’s research institute, where I dabbled in things ranging from international trade negotiations to analysing macroeconomic development trajectory of the country.
-* After Malaysia's historic 2018 elections, I did my bit to help out with what I can as an officer at the Prime Minister's advisory council ([Malaysia's Council of Eminent Persons](https://asia.nikkei.com/Politics/Malaysia-in-transition/Meet-the-5-brains-behind-Malaysia-s-Mahathir-nomics)).
-* This was followed by a small intermission period in my public service career, where I joined the private sector as an economist for a bank under [Dr Donald Hanna](https://www.cimb.com/en/newsroom/2017/cimb-appoints-dr-donald-hanna-as-group-chief-economist.html).
-* Rejoined the public sector as an economist for [Malaysia's capital market regulator](https://www.sc.com.my/), working in all sorts of things for the government up until the early days of the pandemic.
+Before Trafigura, my career spanned central banking, financial regulation, and economic policy across the UK and Southeast Asia. I've worked at the [Bank of England](https://www.bankofengland.co.uk/), the [University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), the [Securities Commission Malaysia](https://www.sc.com.my/), [CIMB Bank](https://www.cimb.com/), and the [Khazanah Research Institute](https://www.krinstitute.org/).
 
-Throughout this whole time, I've had the great privilege of working with some truly fantastic people, such as [Allen Ng](https://amro-asia.org/authors/allen-ng/), [Professor Jomo Kwame Sundaram](https://en.wikipedia.org/wiki/Jomo_Kwame_Sundaram), and [Professor Diane Coyle](https://en.wikipedia.org/wiki/Diane_Coyle).
+## Education
 
-I am currently doing a Master's programme in Machine Learning and Data Science at Imperial College London—prior to this, I studied Public Policy at the University of Cambridge and Economics from the London School of Economics. These were made possible through generous funding from scholarships, of which I am deeply grateful: [Tunku Fund](https://www.caths.cam.ac.uk/research/tunku) and [Khazanah Scholarship](https://yayasanhasanah.org/yayasan-khazanah-scholarship/).
+* **Imperial College London** — MSc Machine Learning and Data Science, Distinction *(2023 – 2025)*<br/>Dissertation: [Meteorological Vision-Language Modelling with Multi-Scale Representation Learning](https://github.com/adammuhtar/hrrr-vlm). Funded by a Bank of England scholarship.
+* **University of Cambridge** — MPhil Public Policy, Distinction *(2020 – 2021)*<br/>Research [published in the _European Journal of Political Economy_](https://doi.org/10.1016/j.ejpoleco.2023.102402). Supported by the [Tunku Abdul Rahman Centenary Fund Scholarship](https://www.caths.cam.ac.uk/research/tunku).
+* **London School of Economics (LSE)** — BSc Economics, Upper Second-Class Honours *(2013 – 2016)*.<br/>Supported by the [Khazanah Global Scholarship](https://yayasanhasanah.org/yayasan-khazanah-scholarship/).
 
-Some extra bits about myself:
-* I split my time between London and Cambridge. If you'd like to meet up, let me know via 🐦[Twitter](https://twitter.com/adammuhtar_) or ✉️[Email](mailto:adam.b.muhtar@gmail.com).
-* My first name is Musaddiq, but I go by my middle name, Adam 🙂
-* I'm also interested in ways to [ween off economists' reliance on Stata](https://i.kym-cdn.com/photos/images/original/001/858/619/19d) 🙃
+## Get in touch
 
-## Selection of stuff I've written 👨🏻‍💻
+* Based in London, splitting time with Cambridge.
+* My first name is Musaddiq, but I go by my middle name, Adam.
+* Reach me via [email](mailto:adam.b.muhtar@gmail.com) or [Twitter/X](https://twitter.com/adammuhtar_).
+
+## Selected writing & publications
 **[Leveraging language models for prudential supervision](https://bankunderground.co.uk/2024/05/15/leveraging-language-models-for-prudential-supervision/)**<br/>
 with [Dragos Gorduza](https://oxford-man.ox.ac.uk/people/dragos-gorduza/)<br/>
 _Bank Underground_<br/>
