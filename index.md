@@ -15,9 +15,9 @@ Before Trafigura, my career spanned central banking, financial regulation, and e
 
 ## Education
 
-* **Imperial College London** — MSc Machine Learning and Data Science, Distinction *(2023 – 2025)*<br/>Dissertation: [Meteorological Vision-Language Modelling with Multi-Scale Representation Learning](https://github.com/adammuhtar/hrrr-vlm). Supported by the Bank of England.
-* **University of Cambridge** — MPhil Public Policy, Distinction *(2020 – 2021)*<br/>Research [published in the _European Journal of Political Economy_](https://doi.org/10.1016/j.ejpoleco.2023.102402). Supported by the [Tunku Abdul Rahman Centenary Fund Scholarship](https://www.caths.cam.ac.uk/research/tunku).
-* **London School of Economics (LSE)** — BSc Economics, Upper Second-Class Honours *(2013 – 2016)*.<br/>Supported by the [Khazanah Global Scholarship](https://yayasanhasanah.org/yayasan-khazanah-scholarship/).
+* **Imperial College London** — MSc Machine Learning and Data Science *(2023 – 2025)*<br/>Dissertation: [Meteorological Vision-Language Modelling with Multi-Scale Representation Learning](https://github.com/adammuhtar/hrrr-vlm). Supported by the Bank of England.
+* **University of Cambridge** — MPhil Public Policy *(2020 – 2021)*<br/>Research [published in the _European Journal of Political Economy_](https://doi.org/10.1016/j.ejpoleco.2023.102402). Supported by the [Tunku Abdul Rahman Centenary Fund Scholarship](https://www.caths.cam.ac.uk/research/tunku).
+* **London School of Economics (LSE)** — BSc Economics *(2013 – 2016)*.<br/>Supported by the [Khazanah Global Scholarship](https://yayasanhasanah.org/yayasan-khazanah-scholarship/).
 
 ## Get in touch
 
