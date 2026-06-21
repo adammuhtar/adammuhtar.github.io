@@ -5,10 +5,6 @@ title: Hi! I'm Adam Muhtar 👋
 comments: false
 ---
 
-Welcome to my personal webpage — thanks for stopping by!
-
-## About me
-
 I'm a machine learning practitioner specialising in natural language processing (NLP) and unstructured data. I'm currently a Senior NLP Scientist and member of the AI team at [Trafigura](https://www.trafigura.com/), where we build AI-powered systems for trading research and operations across physical commodities and derivatives markets. _Views expressed here are my own._
 
 Before Trafigura, my career spanned central banking, financial regulation, and economic research across the UK and Malaysia. I've worked at the [Bank of England](https://www.bankofengland.co.uk/), the [University of Cambridge](https://www.bennettinstitute.cam.ac.uk/), [Securities Commission Malaysia](https://www.sc.com.my/), [CIMB Bank](https://www.cimb.com/), and [Khazanah Research Institute](https://www.krinstitute.org/).
